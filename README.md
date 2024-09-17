@@ -1,5 +1,7 @@
-hi, i'm hyunsung a junior BE developer 👋
 
+<p align="center">  hi, i'm hyunsung a junior BE developer 👋 </p>
+
+<br><br/>
 <div align="center">
 <h3 style="margin-top:30px">✨ Tech Stacks</h3>
 <div>
@@ -94,9 +96,8 @@ hi, i'm hyunsung a junior BE developer 👋
 <br/>
 
 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ths101)](https://solved.ac/ths101/)
-
+<br><br/>
 
 <div>
     <img width=335px src="https://github-readme-stats.vercel.app/api?username=thdgustjd1&show_icons=true&theme=gruvbox"> 
