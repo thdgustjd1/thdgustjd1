@@ -24,7 +24,6 @@
         <td>ORM</td>
         <td>
             <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring Data JPA&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Querydsl-003366?style=flat-square&logo=Querydsl&logoColor=white"/>
         </td>
     </tr>
     <tr>
