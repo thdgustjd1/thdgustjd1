@@ -1,6 +1,12 @@
 
 <p align="center">  hi, i'm hyunsung a junior BE developer 👋 </p>
 
+<h2 align="center">
+  <a href="https://highfalutin-harpymimus-562.notion.site/Song-Hyun-Sung-11ac586d589f80f9a372f77f8ead59bf" style="text-decoration: underline;">
+    [ Portfolio link ]
+  </a>
+</h2>
+
 <br><br/>
 <div align="center">
 <h3 style="margin-top:30px">✨ Tech Stacks</h3>
