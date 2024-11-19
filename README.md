@@ -3,7 +3,7 @@
 
 <h2 align="center">
 <a href="https://thdgustjd1.tistory.com/">
-    ,  [ Blog link ]
+    [ Blog link ]
   </a>
 </h2>
 
